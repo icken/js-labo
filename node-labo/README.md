@@ -68,7 +68,7 @@ $node -v
 v10.4.1
 ```
 
-## do hello world
+## hello world
 ```
 (move workspace)
 $echo "console.log('Hello World')" > helloworld.js
